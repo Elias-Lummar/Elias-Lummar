@@ -35,8 +35,8 @@ For professional inquiries, you can reach me through:
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-work-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Elias-Lummar=your-work-Elias-Lummar&show_icons=true&theme=default)
 
 ---
 
-💡 **Note:** For personal projects and open-source contributions, visit my [main profile](https://github.com/your-main-username).
+💡 **Note:** For personal projects and open-source contributions, visit my [main profile](https://github.com/Eliasdnt).
