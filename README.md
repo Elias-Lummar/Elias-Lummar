@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Welcome to my professional profile
 
-<!--
-**Elias-Lummar/Elias-Lummar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 About this account
 
-Here are some ideas to get you started:
+This is my professional GitHub account, where I maintain work-related projects and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal account:** [@Eliasdnt](https://github.com/Eliasdnt)
+
+## 💼 What you'll find here
+
+In this profile, I share:
+
+- Corporate and professional projects
+- Contributions to company repositories
+- Work-related experiments and studies
+- Technical documentation and best practices
+
+## 🛠️ Technologies
+
+I mainly work with:
+
+- **Languages:** JavaScript
+- **Frontend:**
+- **Backend:** Node.js, Express, FastAPI
+- **Databases:** SQLITE, SQL
+- **DevOps:**
+- **Cloud:** 
+
+## 📫 Contact
+
+For professional inquiries, you can reach me through:
+
+- 📧 Email: your.email@company.com
+- 🌐 Portfolio: [PORTFOLIO](https://eliasdnt.github.io/Myportfolio/)
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-work-username&show_icons=true&theme=default)
+
+---
+
+💡 **Note:** For personal projects and open-source contributions, visit my [main profile](https://github.com/your-main-username).
